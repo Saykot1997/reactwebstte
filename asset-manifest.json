@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.js": "/reactwebstte/static/js/main.f308251c.chunk.js",
+    "main.js.map": "/reactwebstte/static/js/main.f308251c.chunk.js.map",
+    "runtime-main.js": "/reactwebstte/static/js/runtime-main.e6db2e6e.js",
+    "runtime-main.js.map": "/reactwebstte/static/js/runtime-main.e6db2e6e.js.map",
+    "static/js/2.3cf0764e.chunk.js": "/reactwebstte/static/js/2.3cf0764e.chunk.js",
+    "static/js/2.3cf0764e.chunk.js.map": "/reactwebstte/static/js/2.3cf0764e.chunk.js.map",
+    "index.html": "/reactwebstte/index.html",
+    "static/js/2.3cf0764e.chunk.js.LICENSE.txt": "/reactwebstte/static/js/2.3cf0764e.chunk.js.LICENSE.txt",
+    "static/media/app.f857f508.png": "/reactwebstte/static/media/app.f857f508.png",
+    "static/media/code.506a8f21.svg": "/reactwebstte/static/media/code.506a8f21.svg",
+    "static/media/young-woman.99f04a9e.jpg": "/reactwebstte/static/media/young-woman.99f04a9e.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e6db2e6e.js",
+    "static/js/2.3cf0764e.chunk.js",
+    "static/js/main.f308251c.chunk.js"
+  ]
+}
